@@ -1,6 +1,6 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** AI20K-XXXX
+**Student ID:** AI20K-2A202600041
 **Name:** Do Thi Thuy Trang
 **Date:** 15/04/2026
 
